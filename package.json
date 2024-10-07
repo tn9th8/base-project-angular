@@ -1,5 +1,5 @@
 {
-  "name": "mpk-project",
+  "name": "base-project",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,7 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:mpk-project": "node dist/mpk-project/server/server.mjs"
+    "serve:ssr:base-project": "node dist/base-project/server/server.mjs"
   },
   "private": true,
   "dependencies": {
